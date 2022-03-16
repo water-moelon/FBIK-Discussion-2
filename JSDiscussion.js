@@ -11,5 +11,6 @@
  *4.若pr成功,请查看你的Github账号所绑定的邮箱并同意team邀请.
 */
 var jsd_member = {
-    example: ["@example", "example@example.com"]
+    example: ["example", "example@example.com"],
+    Water_Moelon: ["water-moelon", "water-moelon@foxmail.com"]
 };
