@@ -27,7 +27,7 @@ example: ["example", "example@example.com"],
 提交Pull requests
 ![image](https://user-images.githubusercontent.com/100745037/158625226-b9c291a3-a3d1-4504-abc4-00cc31d9f4b0.png)
 ![image](https://user-images.githubusercontent.com/100745037/158625788-2152cd76-d52d-49de-a2a2-d545a5720ee8.png)
-![image](https://user-images.githubusercontent.com/100745037/158626004-bbb4165c-d9c7-45a4-90f6-cec30ff10d73.png)
+![image](https://user-images.githubusercontent.com/100745037/158632502-a9f9434a-309e-42f4-8456-0eb61443365e.png)
 
 若Pr被同意合并，请查看你申请的Github账号绑定的邮箱同意邀请。
 
