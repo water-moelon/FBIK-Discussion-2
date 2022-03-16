@@ -1,2 +1,3 @@
 # FBIK-Discussion
-这是FBIK.的讨论组说明
+FBIK.的小型编程论坛, 基于Github Teams/Github Repositories Discussion
+
