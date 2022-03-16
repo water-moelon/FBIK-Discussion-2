@@ -30,3 +30,8 @@ example: ["example", "example@example.com"],
 ![image](https://user-images.githubusercontent.com/100745037/158626004-bbb4165c-d9c7-45a4-90f6-cec30ff10d73.png)
 
 若Pr被同意合并，请查看你申请的Github账号绑定的邮箱同意邀请。
+
+### 注意!
+请保证你所申请的账号是你的账号;
+请我保证你按照正确的格式, 根据要求进行Pull requests请求;
+请保证你没有修改或删除其他内容.
